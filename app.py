@@ -1,9 +1,18 @@
 # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
-Created on Jun 2025
+Vaigai Express Train Delay Analysis & Prediction Dashboard
 
-@author: kavin
+Originally developed during Summer Internship at
+Centre for Railway Information Systems (CRIS), COA Department.
+
+Maintained and deployed by:
+Jeevesh Raj D
+(with contributions from Kavin Raam M)
+
+Last updated: 2026-01
 """
+
 import streamlit as st
 import pandas as pd
 import seaborn as sns
